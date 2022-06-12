@@ -4,7 +4,7 @@ function mooncakeSays(message) {
   if ( !message ) {
     return `${mooncake} chookity?`;
   }
-
+@@ -8,4 +11,4 @@ function mooncakeSays(message) {
   return `${mooncake} ${message}!`;
 }
 
